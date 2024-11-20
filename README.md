@@ -18,7 +18,7 @@ The library is extremely easy to use, and comes with two functions: ``encode`` a
 ```py
 >>> import phonochrome
 
->>> phonochrome.decode('bacedi') # encode the RGB into a phonochrome appellation
+>>> phonochrome.decode('bacedi') # decode the phonochrome appellation into an RGB
 (0, 0, 0)
 ```
 
